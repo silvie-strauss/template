@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-so-simple
 title: GitHub pages template
 description: A simple template based on minimal jekyll theme
 show_downloads: True
