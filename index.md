@@ -1,5 +1,2 @@
----
-layout: default
----
-# {{site.title}}
-{{site.description}}
+# Bla
+Blabla
