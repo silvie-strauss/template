@@ -4,7 +4,7 @@ plugins:
 
 title: XY
 description: Lorem ipsum
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
